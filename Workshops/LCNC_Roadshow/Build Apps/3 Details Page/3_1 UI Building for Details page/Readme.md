@@ -10,7 +10,7 @@ Previous Step: <a href="https://github.com/SAP-samples/process-automation-enable
 
 3. This text component can display a combination of static text and App variables with names that was created in Home page. This combination can be created using <b>formulas</b>. <br>
 In the binding menu, select <b>Formula</b>.<br><br>
-To learn more about the forumals, please refer <a href="https://docs.appgyver.com/docs/formula-functions?highlight=formil">Using Formula functions</a><br><br>
+To learn more about the formulas, please refer <a href="https://docs.appgyver.com/docs/formula-functions?highlight=formil">Using Formula functions</a><br><br>
 ![Formula](Images/08.png)
 
 4. In the formula bar, the static text are written within <b>“ “</b> and are distinguished with green font. And it can be concatenated with other functions using <b>+</b> operator.<br>
